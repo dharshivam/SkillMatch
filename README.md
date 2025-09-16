@@ -3,8 +3,9 @@
 SkillMatch is a lightweight **Streamlit application** that uses **Google Gemini (Generative AI)** to analyze resumes against job descriptions.  
 It provides ATS scores, matching vs. non-matching skills, SWOT analysis, improvement suggestions, and even generates tailored resumes.
 
-🔗 **Live App**: [SkillMatch Streamlit App](https://skill-match.streamlit.app/)  
+🔗 **Live App**: https://skillmatch-atsresumechecker.streamlit.app/
 
+** Contact me on Linkdin** : https://www.linkedin.com/in/shivam-dhar-50458b73/
 ---
 
 ## 📌 Problem Statement
