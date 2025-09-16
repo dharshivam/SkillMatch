@@ -53,7 +53,7 @@ SkillMatch helps:
 
 ## 📊 Architecture Flow
 
-```mermaid
+
 flowchart TD
     A[📄 Resume Upload (PDF)] --> B[🔍 PDF Text Extraction (pypdf)]
     C[📋 Job Description Input] --> D[⚡ Prompt Construction]
